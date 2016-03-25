@@ -1,1 +1,4 @@
 *.exe
+.metadata/.lock
+*.log
+.metadata/.mylyn/.taskListIndex/segments.gen
