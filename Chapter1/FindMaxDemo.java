@@ -1,3 +1,6 @@
+/**
+* 使用Comparable来实现代码重用
+*/
 
 public class FindMaxDemo {
 

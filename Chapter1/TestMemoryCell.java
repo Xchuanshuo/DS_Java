@@ -1,3 +1,6 @@
+/**
+* 使用Object来实现代码重用
+*/
 
 public class TestMemoryCell {
 

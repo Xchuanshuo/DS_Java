@@ -1,3 +1,7 @@
+/**
+* 构建一个函数对象来作为参数传递
+*/
+
 import java.util.Comparator;
 
 public class FindMaxComparator {

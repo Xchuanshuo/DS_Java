@@ -1,3 +1,6 @@
+/**
+* 一个递归的小例子
+*/
 public class Reversion {
 	public static int f(int x) {
 		if (x == 0)

@@ -1,3 +1,7 @@
+/**
+* 使用Object以及
+* 包装类的标准写法，不使用自动装箱拆箱
+*/
 
 public class WrapperDemo {
 

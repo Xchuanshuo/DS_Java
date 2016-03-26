@@ -1,3 +1,7 @@
+/**
+* 打印整数的递归Demo
+*/
+
 class ReversionPrint{
 	public static void printOut(int n) {
 		if (n >= 10)

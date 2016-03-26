@@ -1,3 +1,7 @@
+/**
+* 使用自动拆箱，自动装箱
+* 使用泛型类
+*/
 
 public class BoxingDemo {
 

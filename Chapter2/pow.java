@@ -1,3 +1,8 @@
+/**
+* 高效率的幂运算
+* 复杂度 O(logN)
+*/
+
 public static long pow(long x, int n) {
 	if (n == 0)
 		return 1;
