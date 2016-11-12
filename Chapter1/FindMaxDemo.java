@@ -5,7 +5,7 @@
 public class FindMaxDemo {
 
 	public static Comparable findMax(Comparable[] arr) {
-		int maxIndex = 0;
+		int maxInd = 0;
 
 		for (int i = 1; i < arr.length; i++) {
 			if (arr[i].compareTo(arr[maxIndex]) > 0)
